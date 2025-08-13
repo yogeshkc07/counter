@@ -1,0 +1,13 @@
+{
+  "name": "Simple Counter",
+  "version": "1",
+  "description": "A simple interactive counter Mini App for Farcaster",
+  "developer": {
+    "name": "EVA",
+    "url": "https://counter-eight-rho.vercel.app/"
+  },
+  "icon": "https://counter-eight-rho.vercel.app/eva.jpeg",
+  "url": "https://counter-eight-rho.vercel.app",
+  "categories": ["tools"],
+  "tags": ["counter", "interactive"]
+}
