@@ -3,9 +3,9 @@ import { useState, useRef, useEffect } from "react";
 import { sdk } from "@farcaster/miniapp-sdk";
 
 const memeTemplates = [
-  { name: "Distracted Boyfriend", url: "/templates/meme1.jpg" },
-  { name: "Drake Hotline Bling", url: "/templates/meme3.jpg" },
-  { name: "Once Again Asking", url: "/templates/meme2.jpg" },
+  { name: "Distracted Boyfriend", url: "/templates/distracted.jpg" },
+  { name: "Drake Hotline Bling", url: "/templates/drake.jpg" },
+  { name: "Change My Mind", url: "/templates/change.jpg" },
 ];
 
 function App() {
